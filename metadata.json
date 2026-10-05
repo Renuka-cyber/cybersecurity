@@ -1,0 +1,6 @@
+{
+  "name": "CSE Cyber Security Department Portal",
+  "description": "Comprehensive academic portal for the Department of Computer Science & Engineering (Cyber Security) featuring year-wise sections, semester subjects, notes repository, and administrative controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
