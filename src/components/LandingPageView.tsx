@@ -284,7 +284,7 @@ export const LandingPageView: React.FC<LandingPageViewProps> = ({
               Department of Computer Science & Engineering (Cyber Security)
             </span>
           </div>
-          <p>© 2026 College of Engineering & Technology. All rights reserved.</p>
+          <p>© 2026 Renuka-Varunya</p>
         </div>
       </footer>
     </div>
